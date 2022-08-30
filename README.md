@@ -74,7 +74,7 @@ If you are familiar with git version control and have git installed then you can
 
 Otherwise navigate to the following webpage (where you are reading this readme):
 
-https://github.com/joaopfonseca/
+https://github.com/joaopfonseca/python-essentials
 
 And select `Clone or download`, then download the zip file and extract.
 
